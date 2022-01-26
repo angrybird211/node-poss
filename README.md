@@ -18,8 +18,3 @@ This is a website for tuorists with a tirp.
 >6. RESTful API for mobile app back end point.
 
 6. hosting: AWS EC2 using Amazon marketing place
-
-# Portfolio
-
-![Alt text](posse.png)
-![Alt text](posse2.png)
